@@ -8,7 +8,7 @@ Vamos lá:
 - 🔭 I’m currently working on ...
 - 🌱 Aprendendo Linux, Zabbix e Docker
 - 📫 Entre em contato pelo: leobtos@gmail.com
-- 😄 Pronouns: leobtos
+- 😄 Conhecido como: leobtos/leozinho
 
 <div align="center">
   <a href="https://github.com/leobtos">
