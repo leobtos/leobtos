@@ -1,4 +1,4 @@
-### Olá bem-vindo ao meu Github 👋
+### Olá bem-vindo ao meu Github, do interior para o mundo 👋
 ##
 <!--
 **leobtos/leobtos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,9 +6,10 @@
 Vamos lá:
 
 - 🔭 I’m currently working on ...
-- 🌱 Aprendendo Linux, Zabbix e Docker
+- 🌱 Aprendendo Linux 🗺️, Zabbix ⚠️ e Docker 🐳
 - 📫 Entre em contato pelo: leobtos@gmail.com
 - 😄 Conhecido como: leobtos/leozinho
+- 🏠 Morando: Barretos - São Paulo 🇧🇷
 
 ##
 
@@ -25,4 +26,3 @@ Vamos lá:
   <a href = "mailto:leobtos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leobtos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-  ##
