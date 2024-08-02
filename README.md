@@ -15,7 +15,6 @@
 
 
 ### Vamos lá: 
-- 🚀 Aprendendo Linux, Zabbix, Docker e Python
 - 📫 Entre em contato pelo: leobtos@gmail.com
 - 😄 Conhecido como: leobtos/leozinho
 - 🏠 Morando: Barretos 🤠 - São Paulo 🇧🇷
