@@ -5,7 +5,7 @@
 -->
 <!-- Vamos lá: -->
 ### Let'go:
-- 🚀 Learning Docker, English, Linux, Python e Zabbix
+- 🚀 Learning Docker, English, Linux
 - 📫 Contact me: leobtos@gmail.com
 - 😄 Nickname: leobtos/leozinho
 - 🏠 Live in: Barretos 🤠 - São Paulo 🇧🇷
